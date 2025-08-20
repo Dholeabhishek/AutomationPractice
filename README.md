@@ -20,13 +20,14 @@ This repository contains an Automation Testing framework built to practice and d
 - Integration with GitHub for version control
 
 ## ⚙️ Project Structure
+```
 AutomationTesting/
 ├── src/test/java # Test scripts
 ├── src/main/java # Page objects & utilities
 ├── testng.xml # TestNG configuration
 ├── pom.xml # Maven dependencies
 └── reports/ # Generated reports
-
+```
 
 ## 📊 Reports
 
